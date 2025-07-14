@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thakshan Mithum</h1>
 <h3 align="center">A Cyber Security Undergraduate From Sri Lanka</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jtmithum2000" alt="jtmithum2000" /></a> </p>
+<p align="left">  alt="jtmithum2000" /></a> </p>
 
 - 📫 How to reach me **jthakshanmithum2021@gmail.com**
 
