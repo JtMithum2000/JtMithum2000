@@ -4,6 +4,7 @@
 
 
 - 📫 How to reach me **jthakshanmithum2021@gmail.com**
+- Linkedin : **www.linkedin.com/in/thakshan-mithum-30b15b327**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
